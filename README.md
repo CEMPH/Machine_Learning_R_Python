@@ -1,1 +1,2 @@
-# Machine_Learning_R_Python
+## Descriptions
+This is the scripts from training course of Dr. Eugenio
